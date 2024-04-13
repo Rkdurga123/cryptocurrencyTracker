@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.link-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.currency-items {
+  display: flex;
+  justify-content: flex-start;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  border-radius: 18px;
+}
+.name {
+  margin-left: 10px;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: white;
+}
+.usd-euro {
+  display: flex;
+  justify-content: flex-start;
+}
+.usd {
+  margin-left: 10px;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: white;
+}
